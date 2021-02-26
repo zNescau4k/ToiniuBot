@@ -2,17 +2,17 @@ const meme = (prefix, botName, ownerName) => {
 	return `
 「 *${botName}* 」
 
-◪ *INFO*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
-◪ *ABOUT*
+♤ *INFO*
+  ❏ Prefix: 「  ${ ! }  」
+  ❏ Creator: ${zNescau4k}
+♤ *ABOUT*
   │
   ├─ ❏ ${prefix}info
   ├─ ❏ ${prefix}blocklist
   ├─ ❏ ${prefix}chatlist
   ├─ ❏ ${prefix}ping
   └─ ❏ ${prefix}bugreport
-◪ *MEME*
+♤ *MEME*
   │
   ├─ ❏ ${prefix}meme
   └─ ❏ ${prefix}memeindo`
